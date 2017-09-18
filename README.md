@@ -24,6 +24,11 @@ Scotland PHP is a one day conference, being held in our nations capital, Edinbur
 * [MageTestFest](https://magetestfest.com/) : November 17, 2017 : Amersfoort, Netherlands
 An international developer conference focused on one thing: Testing within Magento. This event will bring in various experts in the field of testing (PHPUnit, TDD, BDD, code refactoring) to lift Magento developers to the next level.
 
+* [PHPBenelux 2018](https://conference.phpbenelux.eu/2018/) : January 26-27, 2018, Antwerp, Belgium
+
+    Our annual PHPBenelux conference is a non-profit event organised for PHP developers and companies, by PHP developers. Our aim is to help strengthen and enrich the already awesome PHP community. We love to see people come together to learn, discuss, network and have an unforgettable time.
+     The conference attendees are of all different levels and therefor we’d love to see talks submitted for beginners to advanced levels. These topics can be technical or nontechnical as long as it is relevant to PHP developers.
+
 * [PHP Yorkshire 2018](https://www.phpyorkshire.co.uk) : April 13 - 14, 2018 : York, UK
 PHP Yorkshire returns in 2018 with a day of workshops on the Friday followed by a two track main event on the Saturday. Why not make a full weekend of it and spend Sunday exploring the historic city of York.
 
